@@ -4,8 +4,6 @@ Juliann Cho, jcho2@my.waketech.edu
 Welcome to my newly created Github account. This account will be used to showcase school projects and develop a professional portfolio.
 This repository shows my very first website that I've been working on for the past few months. It's a personal website that introduces myself, along with a section dedicated for blog posts around topics like skincare, gaming, travel, and food.
 I was able to clone this repository with the Github Desktop application, copying my website's files into the local repository folder. After making note of what changes were made to the repository, I pushed those changes and published my website.
-### Hi there 👋
-
 <!--
 **jdhc0/jdhc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
