@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Contact Me</title>
+<link href="list_heading.css" rel="stylesheet"
+type="text/css"
+<style type="text/css">
+body {
+	margin-left: 60pt;
+	margin-top: 60pt;
+	margin-right: 60pt;
+	margin-bottom: 60pt;
+}
+<! --Juliann Cho, CTI-1100005-->
+</style>
+</head>
+
+<body>
+<header>
+	<h1>Want to connect? You can reach me here:</h1>
+	<p>jcho2@my.waketech.edu</p>
+<!--This file is my own work and I typed everything manually, Cho-->
+</header>
+</body>
+

@@ -1,0 +1,113 @@
+h1 {
+    color: #E79295;
+    font-family: Leelawadee;
+    font-style: normal;
+    font-weight: normal;
+    font-size: xx-large;
+    text-align: center;
+    font-variant: normal;
+    letter-spacing: 2pt;
+}
+h2 {
+    color: #969696;
+    font-family: Leelawadee;
+    font-style: normal;
+    font-weight: 100;
+    font-size: medium;
+    text-align: center;
+    letter-spacing: 2pt;
+    border-top: thick double #CBCBCB;
+}
+h3 {
+    color: #3b4664;
+    font-family: Leelawadee;
+    font-style: normal;
+    font-weight: normal;
+    font-size: medium;
+    letter-spacing: 5pt;
+}
+p {
+    color: #969696;
+    font-family: Leelawadee;
+    font-style: normal;
+    font-variant: normal;
+    font-size: medium;
+    text-align: center;
+}
+a {
+    color: #FFA5A5;
+    font-size: small;
+    font-family: Leelawadee;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    font-weight: normal;
+}
+ul li a {
+    width: 100%;
+    text-decoration: none;
+    padding-left: 1%;
+    padding-right: 1%;
+    font-family: Leelawadee;
+    color: #969696;
+    font-size: medium;
+    text-align: center;
+}
+
+.menu_bar {
+    text-align: center;
+    border: thin solid #969696;
+    border-radius: 15px;
+    line-height: 30pt;
+
+}
+li {
+    color: #969696;
+    font-family: Leelawadee;
+    font-style: normal;
+    font-size: medium;
+    text-align: left;
+    letter-spacing: normal;
+    font-weight: normal;
+
+}
+
+
+body {
+    margin-left: 60pt;
+    margin-top: 60pt;
+    margin-right: 60pt;
+    margin-bottom: 60pt;
+    float: none;
+    text-align: center;
+}
+.img_float {
+    float: none;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+textarea{
+	margin-top:10px;
+	height:100px;
+	width:95%;
+}
+ul {
+    color: #969696;
+    font-family: Leelawadee;
+    font-size: xx-small;
+    text-align: left;
+    text-decoration: none;
+    font-weight: lighter;
+    font-style: normal;
+    margin-right: -22px;
+    margin-bottom: -22px;
+    margin-left: -22px;
+    position: static;
+    float: none;
+    margin-top: -22px;
+    letter-spacing: 3px;
+}
